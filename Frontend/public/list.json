@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Book 1",
+    "title": "The Great Book",
+    "price": 20,
+    "category": "Free",
+    "image": "book1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Book 2",
+    "title": "The Wonderful Book",
+    "price": 15,
+    "category": "Fiction",
+    "image": "book2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Book 3",
+    "title": "The Fantastic Book",
+    "price": 25,
+    "category": "Science Fiction",
+    "image": "book3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Book 4",
+    "title": "The Mystery Book",
+    "price": 18,
+    "category": "Mystery",
+    "image": "book4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Book 5",
+    "title": "The Romantic Book",
+    "price": 30,
+    "category": "Romance",
+    "image": "book5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Book 6",
+    "title": "The Adventure Book",
+    "price": 22,
+    "category": "Adventure",
+    "image": "book6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Book 7",
+    "title": "Rich Dad Poor Dad",
+    "price": 27,
+    "category": "History",
+    "image": "https://www.theindianbookstore.in/cdn/shop/products/rich_dad_poor_dad_by_robert_t__1607410877_44fb96ac-768x1024.jpg?v=1659004008&width=1445"
+  },
+  {
+    "id": 8,
+    "name": "Book 8",
+    "title": "Aatujeevitham",
+    "price": 24,
+    "category": "Thriller",
+    "image": "https://m.media-amazon.com/images/I/41fyGy4VhVL.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Book 9",
+    "title": "The Comedy Book",
+    "price": 19,
+    "category": "Comedy",
+    "image": "book9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Book 10",
+    "title": "The Educational Book",
+    "price": 28,
+    "category": "Education",
+    "image": "book10.jpg"
+  }
+]
